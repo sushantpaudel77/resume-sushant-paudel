@@ -139,8 +139,8 @@ Backend Developer passionate about scalable microservices using \tech{Spring Boo
   \item \textbf{Programming Languages:} Java, Python, JavaScript
   \item \textbf{Frameworks \& Technologies:} Spring Boot, Spring Security, Spring Cloud, Spring Data JPA, NodeJs, ExpressJs
   \item \textbf{Databases:} PostgreSQL, MySQL, MongoDB
-  \item \textbf{DevOps \& Containerization:} Docker, Kubernetes(Basics), Git, GitHub Actions, Linux 
-  \item \textbf{Message Queues \& Streaming:} Apache Kafka(Basics), RabbitMQ(Basics)
+  \item \textbf{DevOps \& Containerization:} Docker, Kubernetes, Git, GitHub Actions, Linux, Terraform 
+  \item \textbf{Message Queues \& Streaming:} Apache Kafka, RabbitMQ
   \item \textbf{Cloud Platforms:} Amazon Web Services (AWS)
   \item \textbf{Development Tools:} IntelliJ IDEA, VS Code, Vim, Maven, Chrome Dev Tools
   \item \textbf{Core Concepts:} OOP, Microservices Architecture, RESTful API Design
